@@ -2,8 +2,8 @@
 
  <div>
   <a href="https://github.com/roni-88">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roni-88&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roni-88&layout=compact&langs_count=6&theme=algolia"/>
+  <img align="center" img height="180em" src="https://github-readme-stats.vercel.app/api?username=roni-88&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img align="center" img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roni-88&layout=compact&langs_count=6&theme=algolia"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
