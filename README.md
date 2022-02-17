@@ -1,7 +1,7 @@
 ## Bem-vindos ao GitHub do Roni 88! 💙✨🏈🏀🎮🎵🪕🌎
 
 Apaixonado por música, especialmente Samba e Choro, esportes em geral mas especialmente Futebol Americano e Basquete, sou um pequeno latino americano em busca da felicidade!
-Companheiro e papai apaixonado! Sigo em busca de um mundo melhor, mais igual e com muito mais amor! Por aqui... vamos tentar alcançar isso CODANDO! Fazendo a diferença na vida das pessoas e nesse mundão!
+Companheiro e papai apaixonado! Sigo em busca de um mundo melhor, mais igual e com muito mais amor! Por aqui, vamos tentar alcançar isso CODANDO! Fazendo a diferença na vida das pessoas e nesse mundão!
 
  <div>
   <a href="https://github.com/roni-88">
