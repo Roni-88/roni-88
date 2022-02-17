@@ -1,5 +1,8 @@
 ## Bem-vindos ao GitHub do Roni 88! 💙✨🏈🏀🎮🎵🪕🌎
 
+Apaixonado por música, especialmente Samba e Choro, esportes em geral mas especialmente Futebol Americano e Basquete, sou um pequeno latino americano em busca da felicidade!
+Companheiro e papai apaixonado! Sigo em busca de um mundo melhor, mas igual e com muito mais amor! Por aqui... vamos tentar alcançar isso CODANDO! Fazendo a diferença na vida das pessoas e nesse mundão! 💙
+
  <div>
   <a href="https://github.com/roni-88">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roni-88&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
