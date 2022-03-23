@@ -20,7 +20,7 @@ Companheiro e papai apaixonado! Sigo em busca de um mundo melhor, mais igual e c
  
  <br>
  
-  ### Contatos 👇🏽
+  ### Contatos  👇🏽
  
 <div> 
   <a href="https://www.linkedin.com/in/roni-rodrigues-222366b0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
