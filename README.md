@@ -9,8 +9,8 @@
  <div>
   <p align="center">
   <a href="https://github.com/roni-88">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=roni-88&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roni-88&layout=compact&langs_count=6&theme=algolia"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=roni-88&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roni-88&layout=compact&langs_count=6&theme=algolia"/>
 </div>
 <div style="display: inline_block"><br>
  <p align="center">
