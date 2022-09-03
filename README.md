@@ -1,6 +1,6 @@
 ## <p align="center">Bem-vindos ao GitHub do Roni 88! 💙✨🏈🏀🎮🎵🪕🌎
 
-<p align="center">Sou Desenvolvedor Frontend Jr, trabalho com HTML5, CSS3 e JavaScript. E no momento estou estudando React! 💻
+<p align="center">Sou Desenvolvedor Frontend Jr, trabalho com HTML5, CSS3 e JavaScript. Tenho noções de Node.Js e no momento estou estudando React! 💻
 
 <p align="center">Apaixonado por música, especialmente Samba e Choro, esportes em geral mas especialmente Futebol Americano e Basquete, sou um pequeno latino americano em busca da felicidade!
 
