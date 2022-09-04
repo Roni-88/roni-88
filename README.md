@@ -2,9 +2,7 @@
 
 <p align="center">Desenvolvedor Frontend Jr. Uso HTML5, CSS3 e JavaScript. Tenho noções de Node.Js e no momento estou estudando React. 💻
 
-<p align="center">Apaixonado por música, especialmente Samba e Choro, esportes em geral mas especialmente Futebol Americano e Basquete, sou um pequeno latino americano em busca da felicidade!
-
-<p align="center">Companheiro e papai apaixonado! Sigo em busca de um mundo melhor, mais igual e com muito mais amor! Por aqui, vamos tentar alcançar isso CODANDO! Fazendo a diferença na vida das pessoas e nesse mundão! 💙
+<p align="center">Apaixonado por música, especialmente Samba e Choro, esportes em geral mas especialmente Futebol Americano e Basquete! Companheiro e papai apaixonado! Sigo em busca de um mundo melhor, mais igual e com muito mais amor! Por aqui, vamos tentar alcançar isso CODANDO! Fazendo a diferença na vida das pessoas e nesse mundão! 💙
  
  <div>
   <p align="center">
